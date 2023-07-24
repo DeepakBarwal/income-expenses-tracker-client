@@ -1,4 +1,4 @@
-const DOMAIN = "http://localhost:5000";
+const DOMAIN = "https://income-expenses-tracker-server.onrender.com";
 
 export const LOGIN_URL = `${DOMAIN}/api/v1/users/login`;
 
