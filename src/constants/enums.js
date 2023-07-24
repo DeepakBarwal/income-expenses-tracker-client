@@ -1,0 +1,25 @@
+const categories = [
+  "Food",
+  "Transportation",
+  "Shopping",
+  "Health",
+  "Bills",
+  "Savings",
+  "Investment",
+  "Checking",
+  "Credit Card",
+  "Building",
+  "School",
+  "Project",
+  "Utilities",
+  "Travel",
+  "Personal",
+  "Groceries",
+  "Entertainment",
+  "Loan",
+  "Cash Flow",
+  "Uncategorized",
+  "Education",
+];
+
+export default categories;
